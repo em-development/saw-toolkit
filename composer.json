@@ -3,7 +3,7 @@
   "description": "Auxiliar Project Libraly For EMDev Super App WEB",
   "type": "libraly",
   "require": {
-    "php": "7.4.0"
+    "php": ">=7.4.1"
   },
   "homepage": "https://github.com/em-development/saw-toolkit",
   "require-dev": {

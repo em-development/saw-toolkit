@@ -1,6 +1,6 @@
 <?php
 
-namespace SawToolkit\Resources;
+namespace SAWToolkit\Resources;
 
 class Helpers
 {

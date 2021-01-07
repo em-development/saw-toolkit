@@ -1,5 +1,5 @@
 <?php
-namespace Enums;
+namespace  SawToolkit\Enums;
 
 abstract class TypeEntityEnum
 {

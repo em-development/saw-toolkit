@@ -88,6 +88,8 @@ class Dates
             case 'time':
                 return $this->date->format('H:i:s');
                 break;
+            case 'dateTimeBr':
+                return $this->date->format('d/m/Y H:i:s');
             case 'dateTime':
                 return $this->date->format('Y-m-d H:i:s');
                 break;

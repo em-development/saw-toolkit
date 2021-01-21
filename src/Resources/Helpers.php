@@ -54,4 +54,11 @@ class Helpers
                 . chr(125);
         }
     }
+
+    static function titleCase(string $text):?string{
+        $text = strtolower($text);
+        $text = ucwords($text);
+
+        return $text;
+    }
 }

@@ -4,7 +4,7 @@
 namespace SAWToolkit\Enums;
 
 
-abstract class TypeDocumentEnum
+abstract class DocumentTypeEnum
 {
     const CPF = 1;
 }

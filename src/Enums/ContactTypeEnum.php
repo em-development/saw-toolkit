@@ -4,7 +4,7 @@
 namespace SAWToolkit\Enums;
 
 
-abstract class TypeContactEnum
+abstract class ContactTypeEnum
 {
     const EMAIL_LOGIN = 1;
     const EMAIL_NOTIFICATION = 2;

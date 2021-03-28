@@ -2,7 +2,7 @@
 
 namespace SAWToolkit\Enums;
 
-abstract class TypeAccountsLevelEnum
+abstract class AccountsLevelTypeEnum
 {
     const SUPER_ADMINISTRATOR = 1;
     const ADMINISTRATOR = 2;

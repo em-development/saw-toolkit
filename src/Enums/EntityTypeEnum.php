@@ -1,7 +1,7 @@
 <?php
 namespace  SAWToolkit\Enums;
 
-abstract class TypeEntityEnum
+abstract class EntityTypeEnum
 {
     const INDEPENDENT_ORGANIZATION = 1;
     const ADMINISTRATOR_ENTITY = 2;
